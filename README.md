@@ -1,3 +1,3 @@
 # color-display
-it is a color file
-hello haritha !
+it is a color file........
+haritha !
